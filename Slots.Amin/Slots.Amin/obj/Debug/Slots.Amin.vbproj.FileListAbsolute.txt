@@ -1,0 +1,20 @@
+H:\Computer Science\Slots.Amin\Slots.Amin\bin\Debug\Slots.Amin.exe.config
+H:\Computer Science\Slots.Amin\Slots.Amin\bin\Debug\Slots.Amin.exe
+H:\Computer Science\Slots.Amin\Slots.Amin\bin\Debug\Slots.Amin.pdb
+H:\Computer Science\Slots.Amin\Slots.Amin\bin\Debug\Slots.Amin.xml
+H:\Computer Science\Slots.Amin\Slots.Amin\obj\Debug\Slots.Amin.frmSlotMachine.resources
+H:\Computer Science\Slots.Amin\Slots.Amin\obj\Debug\Slots.Amin.Resources.resources
+H:\Computer Science\Slots.Amin\Slots.Amin\obj\Debug\Slots.Amin.vbproj.GenerateResource.Cache
+H:\Computer Science\Slots.Amin\Slots.Amin\obj\Debug\Slots.Amin.exe
+H:\Computer Science\Slots.Amin\Slots.Amin\obj\Debug\Slots.Amin.xml
+H:\Computer Science\Slots.Amin\Slots.Amin\obj\Debug\Slots.Amin.pdb
+C:\Users\Arib\Desktop\Programs\Visual Basic\Computer Science\Slots.Amin\Slots.Amin\bin\Debug\Slots.Amin.exe.config
+C:\Users\Arib\Desktop\Programs\Visual Basic\Computer Science\Slots.Amin\Slots.Amin\obj\Debug\Slots.Amin.exe
+C:\Users\Arib\Desktop\Programs\Visual Basic\Computer Science\Slots.Amin\Slots.Amin\obj\Debug\Slots.Amin.xml
+C:\Users\Arib\Desktop\Programs\Visual Basic\Computer Science\Slots.Amin\Slots.Amin\obj\Debug\Slots.Amin.pdb
+C:\Users\Arib\Desktop\Programs\Visual Basic\Computer Science\Slots.Amin\Slots.Amin\bin\Debug\Slots.Amin.exe
+C:\Users\Arib\Desktop\Programs\Visual Basic\Computer Science\Slots.Amin\Slots.Amin\bin\Debug\Slots.Amin.pdb
+C:\Users\Arib\Desktop\Programs\Visual Basic\Computer Science\Slots.Amin\Slots.Amin\bin\Debug\Slots.Amin.xml
+C:\Users\Arib\Desktop\Programs\Visual Basic\Computer Science\Slots.Amin\Slots.Amin\obj\Debug\Slots.Amin.frmSlotMachine.resources
+C:\Users\Arib\Desktop\Programs\Visual Basic\Computer Science\Slots.Amin\Slots.Amin\obj\Debug\Slots.Amin.Resources.resources
+C:\Users\Arib\Desktop\Programs\Visual Basic\Computer Science\Slots.Amin\Slots.Amin\obj\Debug\Slots.Amin.vbproj.GenerateResource.Cache

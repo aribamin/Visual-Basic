@@ -1,0 +1,10 @@
+H:\Computer Science\GuessingGame.Amin\GuessingGame.Amin\bin\Debug\GuessingGame.Amin.exe.config
+H:\Computer Science\GuessingGame.Amin\GuessingGame.Amin\bin\Debug\GuessingGame.Amin.exe
+H:\Computer Science\GuessingGame.Amin\GuessingGame.Amin\bin\Debug\GuessingGame.Amin.pdb
+H:\Computer Science\GuessingGame.Amin\GuessingGame.Amin\bin\Debug\GuessingGame.Amin.xml
+H:\Computer Science\GuessingGame.Amin\GuessingGame.Amin\obj\Debug\GuessingGame.Amin.frmGuessingGame.resources
+H:\Computer Science\GuessingGame.Amin\GuessingGame.Amin\obj\Debug\GuessingGame.Amin.Resources.resources
+H:\Computer Science\GuessingGame.Amin\GuessingGame.Amin\obj\Debug\GuessingGame.Amin.vbproj.GenerateResource.Cache
+H:\Computer Science\GuessingGame.Amin\GuessingGame.Amin\obj\Debug\GuessingGame.Amin.exe
+H:\Computer Science\GuessingGame.Amin\GuessingGame.Amin\obj\Debug\GuessingGame.Amin.xml
+H:\Computer Science\GuessingGame.Amin\GuessingGame.Amin\obj\Debug\GuessingGame.Amin.pdb
