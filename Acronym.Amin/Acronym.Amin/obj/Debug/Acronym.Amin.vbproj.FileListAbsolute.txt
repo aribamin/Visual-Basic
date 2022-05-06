@@ -1,0 +1,14 @@
+H:\Computer Science\Acronym.Amin\Acronym.Amin\bin\Debug\Acronym.Amin.exe.config
+H:\Computer Science\Acronym.Amin\Acronym.Amin\bin\Debug\Acronym.Amin.exe
+H:\Computer Science\Acronym.Amin\Acronym.Amin\bin\Debug\Acronym.Amin.pdb
+H:\Computer Science\Acronym.Amin\Acronym.Amin\bin\Debug\Acronym.Amin.xml
+H:\Computer Science\Acronym.Amin\Acronym.Amin\obj\Debug\Acronym.Amin.frmAcronym.resources
+H:\Computer Science\Acronym.Amin\Acronym.Amin\obj\Debug\Acronym.Amin.Resources.resources
+H:\Computer Science\Acronym.Amin\Acronym.Amin\obj\Debug\Acronym.Amin.vbproj.GenerateResource.Cache
+H:\Computer Science\Acronym.Amin\Acronym.Amin\obj\Debug\Acronym.Amin.exe
+H:\Computer Science\Acronym.Amin\Acronym.Amin\obj\Debug\Acronym.Amin.xml
+H:\Computer Science\Acronym.Amin\Acronym.Amin\obj\Debug\Acronym.Amin.pdb
+H:\Computer Science\Handed In\Acronym.Amin\Acronym.Amin\bin\Debug\Acronym.Amin.exe.config
+H:\Computer Science\Handed In\Acronym.Amin\Acronym.Amin\obj\Debug\Acronym.Amin.exe
+H:\Computer Science\Handed In\Acronym.Amin\Acronym.Amin\obj\Debug\Acronym.Amin.xml
+H:\Computer Science\Handed In\Acronym.Amin\Acronym.Amin\obj\Debug\Acronym.Amin.pdb
