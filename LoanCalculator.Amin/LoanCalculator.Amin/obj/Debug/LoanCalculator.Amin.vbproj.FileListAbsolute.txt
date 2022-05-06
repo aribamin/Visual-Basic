@@ -1,0 +1,10 @@
+H:\Computer Science\LoanCalculator.Amin\LoanCalculator.Amin\bin\Debug\LoanCalculator.Amin.exe.config
+H:\Computer Science\LoanCalculator.Amin\LoanCalculator.Amin\bin\Debug\LoanCalculator.Amin.exe
+H:\Computer Science\LoanCalculator.Amin\LoanCalculator.Amin\bin\Debug\LoanCalculator.Amin.pdb
+H:\Computer Science\LoanCalculator.Amin\LoanCalculator.Amin\bin\Debug\LoanCalculator.Amin.xml
+H:\Computer Science\LoanCalculator.Amin\LoanCalculator.Amin\obj\Debug\LoanCalculator.Amin.frmLoanCalculator.resources
+H:\Computer Science\LoanCalculator.Amin\LoanCalculator.Amin\obj\Debug\LoanCalculator.Amin.Resources.resources
+H:\Computer Science\LoanCalculator.Amin\LoanCalculator.Amin\obj\Debug\LoanCalculator.Amin.vbproj.GenerateResource.Cache
+H:\Computer Science\LoanCalculator.Amin\LoanCalculator.Amin\obj\Debug\LoanCalculator.Amin.exe
+H:\Computer Science\LoanCalculator.Amin\LoanCalculator.Amin\obj\Debug\LoanCalculator.Amin.xml
+H:\Computer Science\LoanCalculator.Amin\LoanCalculator.Amin\obj\Debug\LoanCalculator.Amin.pdb
