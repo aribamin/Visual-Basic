@@ -1,0 +1,20 @@
+H:\Computer Science\Calculator 2.0\Calculator 2.0\bin\Debug\Calculator 2.0.exe.config
+H:\Computer Science\Calculator 2.0\Calculator 2.0\obj\Debug\Calculator_2._0.Resources.resources
+H:\Computer Science\Calculator 2.0\Calculator 2.0\obj\Debug\Calculator 2.0.vbproj.GenerateResource.Cache
+H:\Computer Science\Calculator 2.0\Calculator 2.0\bin\Debug\Calculator 2.0.exe
+H:\Computer Science\Calculator 2.0\Calculator 2.0\bin\Debug\Calculator 2.0.pdb
+H:\Computer Science\Calculator 2.0\Calculator 2.0\bin\Debug\Calculator 2.0.xml
+H:\Computer Science\Calculator 2.0\Calculator 2.0\obj\Debug\Calculator 2.0.exe
+H:\Computer Science\Calculator 2.0\Calculator 2.0\obj\Debug\Calculator 2.0.xml
+H:\Computer Science\Calculator 2.0\Calculator 2.0\obj\Debug\Calculator 2.0.pdb
+H:\Computer Science\Calculator 2.0\Calculator 2.0\obj\Debug\Calculator_2._0.frmCalculator2.resources
+H:\Computer Science\Calculator 2.0.Amin\Calculator 2.0\bin\Debug\Calculator 2.0.exe.config
+H:\Computer Science\Calculator 2.0.Amin\Calculator 2.0\obj\Debug\Calculator 2.0.exe
+H:\Computer Science\Calculator 2.0.Amin\Calculator 2.0\obj\Debug\Calculator 2.0.xml
+H:\Computer Science\Calculator 2.0.Amin\Calculator 2.0\obj\Debug\Calculator 2.0.pdb
+H:\Computer Science\Calculator 2.0.Amin\Calculator 2.0\bin\Debug\Calculator 2.0.exe
+H:\Computer Science\Calculator 2.0.Amin\Calculator 2.0\bin\Debug\Calculator 2.0.pdb
+H:\Computer Science\Calculator 2.0.Amin\Calculator 2.0\bin\Debug\Calculator 2.0.xml
+H:\Computer Science\Calculator 2.0.Amin\Calculator 2.0\obj\Debug\Calculator_2._0.frmCalculator2.resources
+H:\Computer Science\Calculator 2.0.Amin\Calculator 2.0\obj\Debug\Calculator_2._0.Resources.resources
+H:\Computer Science\Calculator 2.0.Amin\Calculator 2.0\obj\Debug\Calculator 2.0.vbproj.GenerateResource.Cache

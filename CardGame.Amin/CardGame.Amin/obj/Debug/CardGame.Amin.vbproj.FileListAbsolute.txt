@@ -1,0 +1,26 @@
+H:\Computer Science\CardGame.Amin\CardGame.Amin\bin\Debug\CardGame.Amin.exe.config
+H:\Computer Science\CardGame.Amin\CardGame.Amin\bin\Debug\CardGame.Amin.exe
+H:\Computer Science\CardGame.Amin\CardGame.Amin\bin\Debug\CardGame.Amin.pdb
+H:\Computer Science\CardGame.Amin\CardGame.Amin\bin\Debug\CardGame.Amin.xml
+H:\Computer Science\CardGame.Amin\CardGame.Amin\obj\Debug\CardGame.Amin.frmCardGame.resources
+H:\Computer Science\CardGame.Amin\CardGame.Amin\obj\Debug\CardGame.Amin.Resources.resources
+H:\Computer Science\CardGame.Amin\CardGame.Amin\obj\Debug\CardGame.Amin.vbproj.GenerateResource.Cache
+H:\Computer Science\CardGame.Amin\CardGame.Amin\obj\Debug\CardGame.Amin.exe
+H:\Computer Science\CardGame.Amin\CardGame.Amin\obj\Debug\CardGame.Amin.xml
+H:\Computer Science\CardGame.Amin\CardGame.Amin\obj\Debug\CardGame.Amin.pdb
+H:\Computer Science\CardGame.Amin\CardGame.Amin\obj\Debug\CardGame.Amin.vbprojResolveAssemblyReference.cache
+H:\Computer Science\Handed In\CardGame.Amin\CardGame.Amin\bin\Debug\CardGame.Amin.exe.config
+H:\Computer Science\Handed In\CardGame.Amin\CardGame.Amin\obj\Debug\CardGame.Amin.exe
+H:\Computer Science\Handed In\CardGame.Amin\CardGame.Amin\obj\Debug\CardGame.Amin.xml
+H:\Computer Science\Handed In\CardGame.Amin\CardGame.Amin\obj\Debug\CardGame.Amin.pdb
+C:\Users\Arib\Desktop\Programs\Visual Basic\Computer Science\CardGame.Amin\CardGame.Amin\bin\Debug\CardGame.Amin.exe.config
+C:\Users\Arib\Desktop\Programs\Visual Basic\Computer Science\CardGame.Amin\CardGame.Amin\obj\Debug\CardGame.Amin.exe
+C:\Users\Arib\Desktop\Programs\Visual Basic\Computer Science\CardGame.Amin\CardGame.Amin\obj\Debug\CardGame.Amin.xml
+C:\Users\Arib\Desktop\Programs\Visual Basic\Computer Science\CardGame.Amin\CardGame.Amin\obj\Debug\CardGame.Amin.pdb
+C:\Users\Arib\Desktop\Programs\Visual Basic\Computer Science\CardGame.Amin\CardGame.Amin\bin\Debug\CardGame.Amin.exe
+C:\Users\Arib\Desktop\Programs\Visual Basic\Computer Science\CardGame.Amin\CardGame.Amin\bin\Debug\CardGame.Amin.pdb
+C:\Users\Arib\Desktop\Programs\Visual Basic\Computer Science\CardGame.Amin\CardGame.Amin\bin\Debug\CardGame.Amin.xml
+C:\Users\Arib\Desktop\Programs\Visual Basic\Computer Science\CardGame.Amin\CardGame.Amin\obj\Debug\CardGame.Amin.vbprojResolveAssemblyReference.cache
+C:\Users\Arib\Desktop\Programs\Visual Basic\Computer Science\CardGame.Amin\CardGame.Amin\obj\Debug\CardGame.Amin.frmCardGame.resources
+C:\Users\Arib\Desktop\Programs\Visual Basic\Computer Science\CardGame.Amin\CardGame.Amin\obj\Debug\CardGame.Amin.Resources.resources
+C:\Users\Arib\Desktop\Programs\Visual Basic\Computer Science\CardGame.Amin\CardGame.Amin\obj\Debug\CardGame.Amin.vbproj.GenerateResource.Cache
