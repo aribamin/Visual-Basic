@@ -1,0 +1,16 @@
+C:\Users\Arib\Desktop\Programs\Visual Studio\MetricConversion.Amin\MetricConversion.Amin\bin\Debug\MetricConversion.Amin.exe.config
+H:\Computer Science\MetricConversion.Amin\MetricConversion.Amin\bin\Debug\MetricConversion.Amin.exe.config
+H:\Computer Science\MetricConversion.Amin\MetricConversion.Amin\obj\Debug\MetricConversion.Amin.frmMetricConversion.resources
+H:\Computer Science\MetricConversion.Amin\MetricConversion.Amin\obj\Debug\MetricConversion.Amin.Resources.resources
+H:\Computer Science\MetricConversion.Amin\MetricConversion.Amin\obj\Debug\MetricConversion.Amin.vbproj.GenerateResource.Cache
+H:\Computer Science\MetricConversion.Amin\MetricConversion.Amin\bin\Debug\MetricConversion.Amin.exe
+H:\Computer Science\MetricConversion.Amin\MetricConversion.Amin\bin\Debug\MetricConversion.Amin.pdb
+H:\Computer Science\MetricConversion.Amin\MetricConversion.Amin\bin\Debug\MetricConversion.Amin.xml
+H:\Computer Science\MetricConversion.Amin\MetricConversion.Amin\obj\Debug\MetricConversion.Amin.exe
+H:\Computer Science\MetricConversion.Amin\MetricConversion.Amin\obj\Debug\MetricConversion.Amin.xml
+H:\Computer Science\MetricConversion.Amin\MetricConversion.Amin\obj\Debug\MetricConversion.Amin.pdb
+H:\Computer Science\MetricConversion.Amin\MetricConversion.Amin\obj\Debug\MetricConversion.Amin.vbprojResolveAssemblyReference.cache
+H:\Computer Science\Handed In\MetricConversion.Amin\MetricConversion.Amin\bin\Debug\MetricConversion.Amin.exe.config
+H:\Computer Science\Handed In\MetricConversion.Amin\MetricConversion.Amin\obj\Debug\MetricConversion.Amin.exe
+H:\Computer Science\Handed In\MetricConversion.Amin\MetricConversion.Amin\obj\Debug\MetricConversion.Amin.xml
+H:\Computer Science\Handed In\MetricConversion.Amin\MetricConversion.Amin\obj\Debug\MetricConversion.Amin.pdb

@@ -1,0 +1,10 @@
+H:\Computer Science\MathTutor.Amin\MathTutor.Amin\bin\Debug\MathTutor.Amin.exe.config
+H:\Computer Science\MathTutor.Amin\MathTutor.Amin\bin\Debug\MathTutor.Amin.exe
+H:\Computer Science\MathTutor.Amin\MathTutor.Amin\bin\Debug\MathTutor.Amin.pdb
+H:\Computer Science\MathTutor.Amin\MathTutor.Amin\bin\Debug\MathTutor.Amin.xml
+H:\Computer Science\MathTutor.Amin\MathTutor.Amin\obj\Debug\MathTutor.Amin.frmMathTutor.resources
+H:\Computer Science\MathTutor.Amin\MathTutor.Amin\obj\Debug\MathTutor.Amin.Resources.resources
+H:\Computer Science\MathTutor.Amin\MathTutor.Amin\obj\Debug\MathTutor.Amin.vbproj.GenerateResource.Cache
+H:\Computer Science\MathTutor.Amin\MathTutor.Amin\obj\Debug\MathTutor.Amin.exe
+H:\Computer Science\MathTutor.Amin\MathTutor.Amin\obj\Debug\MathTutor.Amin.xml
+H:\Computer Science\MathTutor.Amin\MathTutor.Amin\obj\Debug\MathTutor.Amin.pdb

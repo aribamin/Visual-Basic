@@ -1,0 +1,10 @@
+H:\Computer Science\PaymentCalculator.Amin\PaymentCalculator.Amin\bin\Debug\PaymentCalculator.Amin.exe.config
+H:\Computer Science\PaymentCalculator.Amin\PaymentCalculator.Amin\bin\Debug\PaymentCalculator.Amin.exe
+H:\Computer Science\PaymentCalculator.Amin\PaymentCalculator.Amin\bin\Debug\PaymentCalculator.Amin.pdb
+H:\Computer Science\PaymentCalculator.Amin\PaymentCalculator.Amin\bin\Debug\PaymentCalculator.Amin.xml
+H:\Computer Science\PaymentCalculator.Amin\PaymentCalculator.Amin\obj\Debug\PaymentCalculator.Amin.frmPaymentCalculator.resources
+H:\Computer Science\PaymentCalculator.Amin\PaymentCalculator.Amin\obj\Debug\PaymentCalculator.Amin.Resources.resources
+H:\Computer Science\PaymentCalculator.Amin\PaymentCalculator.Amin\obj\Debug\PaymentCalculator.Amin.vbproj.GenerateResource.Cache
+H:\Computer Science\PaymentCalculator.Amin\PaymentCalculator.Amin\obj\Debug\PaymentCalculator.Amin.exe
+H:\Computer Science\PaymentCalculator.Amin\PaymentCalculator.Amin\obj\Debug\PaymentCalculator.Amin.xml
+H:\Computer Science\PaymentCalculator.Amin\PaymentCalculator.Amin\obj\Debug\PaymentCalculator.Amin.pdb
