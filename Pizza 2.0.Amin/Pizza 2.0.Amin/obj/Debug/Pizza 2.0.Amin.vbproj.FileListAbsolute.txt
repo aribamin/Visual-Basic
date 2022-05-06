@@ -1,0 +1,14 @@
+H:\Computer Science\Pizza 2.0.Amin\Pizza 2.0.Amin\bin\Debug\Pizza 2.0.Amin.exe.config
+H:\Computer Science\Pizza 2.0.Amin\Pizza 2.0.Amin\bin\Debug\Pizza 2.0.Amin.exe
+H:\Computer Science\Pizza 2.0.Amin\Pizza 2.0.Amin\bin\Debug\Pizza 2.0.Amin.pdb
+H:\Computer Science\Pizza 2.0.Amin\Pizza 2.0.Amin\bin\Debug\Pizza 2.0.Amin.xml
+H:\Computer Science\Pizza 2.0.Amin\Pizza 2.0.Amin\obj\Debug\Pizza_2._0.Amin.frmIncrediBullPizza.resources
+H:\Computer Science\Pizza 2.0.Amin\Pizza 2.0.Amin\obj\Debug\Pizza_2._0.Amin.Resources.resources
+H:\Computer Science\Pizza 2.0.Amin\Pizza 2.0.Amin\obj\Debug\Pizza 2.0.Amin.vbproj.GenerateResource.Cache
+H:\Computer Science\Pizza 2.0.Amin\Pizza 2.0.Amin\obj\Debug\Pizza 2.0.Amin.exe
+H:\Computer Science\Pizza 2.0.Amin\Pizza 2.0.Amin\obj\Debug\Pizza 2.0.Amin.xml
+H:\Computer Science\Pizza 2.0.Amin\Pizza 2.0.Amin\obj\Debug\Pizza 2.0.Amin.pdb
+H:\Computer Science\Handed In\Pizza 2.0.Amin\Pizza 2.0.Amin\bin\Debug\Pizza 2.0.Amin.exe.config
+H:\Computer Science\Handed In\Pizza 2.0.Amin\Pizza 2.0.Amin\obj\Debug\Pizza 2.0.Amin.exe
+H:\Computer Science\Handed In\Pizza 2.0.Amin\Pizza 2.0.Amin\obj\Debug\Pizza 2.0.Amin.xml
+H:\Computer Science\Handed In\Pizza 2.0.Amin\Pizza 2.0.Amin\obj\Debug\Pizza 2.0.Amin.pdb

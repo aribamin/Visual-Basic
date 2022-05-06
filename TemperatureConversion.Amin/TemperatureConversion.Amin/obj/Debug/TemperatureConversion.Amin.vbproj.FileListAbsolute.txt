@@ -1,0 +1,10 @@
+H:\Computer Science\TemperatureConversion.Amin\TemperatureConversion.Amin\bin\Debug\TemperatureConversion.Amin.exe.config
+H:\Computer Science\TemperatureConversion.Amin\TemperatureConversion.Amin\bin\Debug\TemperatureConversion.Amin.exe
+H:\Computer Science\TemperatureConversion.Amin\TemperatureConversion.Amin\bin\Debug\TemperatureConversion.Amin.pdb
+H:\Computer Science\TemperatureConversion.Amin\TemperatureConversion.Amin\bin\Debug\TemperatureConversion.Amin.xml
+H:\Computer Science\TemperatureConversion.Amin\TemperatureConversion.Amin\obj\Debug\TemperatureConversion.Amin.Resources.resources
+H:\Computer Science\TemperatureConversion.Amin\TemperatureConversion.Amin\obj\Debug\TemperatureConversion.Amin.vbproj.GenerateResource.Cache
+H:\Computer Science\TemperatureConversion.Amin\TemperatureConversion.Amin\obj\Debug\TemperatureConversion.Amin.exe
+H:\Computer Science\TemperatureConversion.Amin\TemperatureConversion.Amin\obj\Debug\TemperatureConversion.Amin.xml
+H:\Computer Science\TemperatureConversion.Amin\TemperatureConversion.Amin\obj\Debug\TemperatureConversion.Amin.pdb
+H:\Computer Science\TemperatureConversion.Amin\TemperatureConversion.Amin\obj\Debug\TemperatureConversion.Amin.frmTemperatureConverter.resources
